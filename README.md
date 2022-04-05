@@ -21,3 +21,7 @@ The json will explain the services, the widgets linked to them and even their pa
 **Note: this project is still on dev.**
 
 ![Login](https://raw.githubusercontent.com/GregoireDuhem/Dashboard-Epitech/main/Front/src/Assets/Screenshots/Capture%20d’écran%202022-04-05%20à%2018.57.12.png)
+
+![MainPage](https://raw.githubusercontent.com/GregoireDuhem/Dashboard-Epitech/main/Front/src/Assets/Screenshots/Capture%20d’écran%202022-04-05%20à%2018.58.38.png)
+
+![Profile](https://raw.githubusercontent.com/GregoireDuhem/Dashboard-Epitech/main/Front/src/Assets/Screenshots/Capture%20d’écran%202022-04-05%20à%2018.59.05.png)
